@@ -9,3 +9,7 @@ Questions
 5. What is the proportion of cancelled bookings for the city hotel compared to the resort hotel?
 
 Insight
+
+#Dashboard
+![Dashboard](https://github.com/Animeshgehlot/Hotel-Booking-Cancellations/assets/168953673/80fbc5a2-b2c7-4e16-9f9f-6dfd47c2e88d)
+
